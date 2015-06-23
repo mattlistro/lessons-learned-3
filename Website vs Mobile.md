@@ -4,4 +4,4 @@ Creating a website first is typically recommended, as you can make the necessary
 
 http://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/
 
-!http://blog.unidev.com/wp-content/uploads/2011/09/mobile_app-vs_website.png
+!(http://blog.unidev.com/wp-content/uploads/2011/09/mobile_app-vs_website.png)
