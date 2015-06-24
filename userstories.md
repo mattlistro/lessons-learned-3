@@ -7,4 +7,5 @@ website could be having a catalogue of inventory. The user story could be "As a 
 find what I need." 
 
 ![UserStory] (https://upload.wikimedia.org/wikipedia/commons/b/bd/User_Story_Map_in_Action.png)
-https://en.wikipedia.org/wiki/User_story
+(https://en.wikipedia.org/wiki/User_story)
+
