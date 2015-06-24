@@ -7,4 +7,5 @@ One of the most valuable things I learned in this class is thinking about what t
 
 Here is some more information about hiring a development team: (http://launchany.com/how-to-select-a-development-team-for-your-startup/)
 
-![Computer](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0CAcQjRw&url=http%3A%2F%2Fpixgood.org%2Fbusiness-person-working-at-computer.html&ei=59-KVbaYKIOp-QHuy5wg&bvm=bv.96339352,d.cWw&psig=AFQjCNFkEFerUesrdwYwFgHNhPd85eqD0g&ust=1435251050782899)
+![Computer](http://blog.demandmetric.com/wp-content/uploads/2012/09/iStock_000006828965XSmall.jpeg)
+
