@@ -12,7 +12,7 @@ Overall, if you're not working locally, it's important that your developers have
 
 Also, if you do work remotely, one particularly strong global development shop is Thoughtworks. 
 
-(https://www.google.com/search?q=thought+works&espv=2&biw=1268&bih=712&source=lnms&tbm=isch&sa=X&ei=a9mKVcGlM4ro-QHZ7pDoAg&ved=0CAgQ_AUoAw#imgrc=y5HO3pcG-9xolM%253A%3BDk2PCA1QS7HGpM%3Bhttp%253A%252F%252Fwatirmelon.files.wordpress.com%252F2010%252F08%252Fthoughtworks-australia.png%3Bhttp%253A%252F%252Fwatirmelon.com%252Ftag%252Fthoughtworks%252F%3B764%3B541)
+Here's a blog post with some interesting perspectives on outsourcing development. Yes, it's from Barcelona, but the content is still compelling. (http://www.barcinno.com/to-employ-a-full-time-developer-or-outsource-abroad/) 
 
 
 blah blah blah include an image and link...paste image link file name should be file name.md (the thing you're writing baotu)
