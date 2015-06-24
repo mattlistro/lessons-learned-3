@@ -12,7 +12,7 @@ Overall, if you're not working locally, it's important that your developers have
 
 Also, if you do work remotely, one particularly strong global development shop is Thoughtworks. 
 As you can see from their logos, they're truly global.
-![Australia] (http://www.bigambition.co.uk/BigAmbition/Images/CompanyProfiles/Thoughtworks%20new%20logo.png)
+![Australia] (https://creativepete.files.wordpress.com/2009/11/screen-shot-2009-11-19-at-10-34-52.png)
 ![London] (http://www.bigambition.co.uk/BigAmbition/Images/CompanyProfiles/Thoughtworks%20new%20logo.png)
 
 Here's a blog post with some interesting perspectives on outsourcing development. Yes, it's from Barcelona, but the content is still compelling. (http://www.barcinno.com/to-employ-a-full-time-developer-or-outsource-abroad/) 
