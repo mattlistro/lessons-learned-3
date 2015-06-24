@@ -13,7 +13,7 @@ Overall, if you're not working locally, it's important that your developers have
 Also, if you do work remotely, one particularly strong global development shop is Thoughtworks. 
 
 Here's a blog post with some interesting perspectives on outsourcing development. Yes, it's from Barcelona, but the content is still compelling. (http://www.barcinno.com/to-employ-a-full-time-developer-or-outsource-abroad/) 
-
+(https://www.google.com/search?q=thoughtworks+logo&espv=2&biw=1268&bih=712&tbm=isch&imgil=ekFCtXlXiOHIQM%253A%253BonJTPITe972DLM%253Bhttp%25253A%25252F%25252Fwww.bigambition.co.uk%25252Fdigital-careers%25252Fcompany-profiles%25252Fthoughtworks%25252F&source=iu&pf=m&fir=ekFCtXlXiOHIQM%253A%252ConJTPITe972DLM%252C_&usg=__0B2fqaiQJr-dHPHR4Hv5E-wcDUQ%3D&ved=0CDEQyjc&ei=qduKVbrMM8Ws-AGwlb7QBQ#imgrc=ekFCtXlXiOHIQM%253A%3BonJTPITe972DLM%3Bhttp%253A%252F%252Fwww.bigambition.co.uk%252FBigAmbition%252FImages%252FCompanyProfiles%252FThoughtworks%252520new%252520logo.png%3Bhttp%253A%252F%252Fwww.bigambition.co.uk%252Fdigital-careers%252Fcompany-profiles%252Fthoughtworks%252F%3B1044%3B669&usg=__0B2fqaiQJr-dHPHR4Hv5E-wcDUQ%3D)
 
 blah blah blah include an image and link...paste image link file name should be file name.md (the thing you're writing baotu)
 link you put you put in ()
